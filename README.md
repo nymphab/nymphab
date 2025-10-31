@@ -46,43 +46,19 @@ Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignée
 ### 📊 Stats
 
 
-## 📊 GitHub Stats
-
 <div align="center">
 
-  <!-- 🟣 Carte profil -->
-  <img width="80%"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab
-       &theme=github_dark
-       &background=0D0D1A
-       &title_color=7A4DFF
-       &text_color=C9C4E0
-       &icon_color=9C6BFF
-       &ring_color=9C6BFF" />
+  <!-- Carte profil -->
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=github_dark" />
 
-  <!-- 🔹 Ligne Stats + Heures productives -->
-  <div align="center"
-       style="width: 78%; display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
-    <img width="48%"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nymphab
-         &theme=github_dark
-         &background=0D0D1A
-         &title_color=7A4DFF
-         &text_color=C9C4E0
-         &icon_color=9C6BFF
-         &ring_color=9C6BFF" />
-    <img width="48%"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nymphab
-         &theme=github_dark
-         &background=0D0D1A
-         &title_color=7A4DFF
-         &text_color=C9C4E0
-         &icon_color=9C6BFF
-         &ring_color=9C6BFF
-         &utcOffset=+01" />
+  <!-- Stats + Commits -->
+  <div align="center" style="width: 78%; display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nymphab&theme=github_dark" />
+    <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nymphab&theme=github_dark&utcOffset=1" />
   </div>
 
 </div>
+
 
 
 ---
