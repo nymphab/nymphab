@@ -45,41 +45,36 @@ Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignée
 
 ### 📊 Stats
 
+<div align="center">
 
-## 📊 Stats
-
-<!-- Aperçu global -->
-<p align="center">
-  <img width="100%"
+  <!-- Carte profil -->
+  <img width="90%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=tokyonight" />
-</p>
 
-<!-- Rangées de cartes -->
-<p align="center">
-  <img height="180"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nymphab&theme=tokyonight" />
-  <img height="180"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nymphab&theme=tokyonight&utcOffset=+01" />
-</p>
+  <!-- Ligne Stats + Heures productives -->
+  <p align="center">
+    <img height="160"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nymphab&theme=tokyonight" />
+    <img height="160"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nymphab&theme=tokyonight&utcOffset=+01" />
+  </p>
 
-<p align="center">
-  <img height="180"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nymphab&theme=tokyonight" />
-  <img height="180"
-       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nymphab&theme=tokyonight" />
-</p>
+  <!-- Ligne Langages -->
+  <p align="center">
+    <img height="160"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nymphab&theme=tokyonight" />
+    <img height="160"
+         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nymphab&theme=tokyonight" />
+  </p>
 
-<!-- Trophées (badges) -->
-<p align="center">
-  <img width="100%"
-       src="https://github-profile-trophy.vercel.app/?username=nymphab&theme=onedark&no-frame=true&margin-w=8&title=MultiLanguage,Repositories,Stars,Commits,Followers,PullRequest" />
-</p>
+  <!-- Trophées -->
+  <p align="center">
+    <img width="90%"
+         src="https://github-profile-trophy.vercel.app/?username=nymphab&theme=onedark&no-frame=true&margin-w=8&title=MultiLanguage,Repositories,Stars,Commits,Followers,PullRequest" />
+  </p>
 
-<!-- Graphe des contributions -->
-<p align="center">
-  <img width="100%"
-       src="https://github-readme-activity-graph.vercel.app/graph?username=nymphab&theme=tokyo-night&radius=12" />
-</p>
+</div>
+
 
 
 
