@@ -6,7 +6,7 @@
 <h3 align="center">Full-Stack Web Developer</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/<ton-handle>"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/amel-bennaceur-532873265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://<ton-portfolio>"><img src="https://img.shields.io/badge/Portfolio-6B46C1?logo=vercel&logoColor=white"></a>
   <a href="mailto:<ton-email>"><img src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white"></a>
   <img src="https://komarev.com/ghpvc/?username=<ton-username>&style=flat" />
@@ -15,7 +15,7 @@
 ---
 
 ### 👋 Hello!
-Je suis <b><Ton Nom></b>, développeur·se **Full-Stack** passionné·e par les interfaces soignées et les APIs robustes.  
+Je suis <b>, développeur·se **Full-Stack** passionnée par les interfaces soignées et les APIs robustes.  
 - 🔭 En ce moment : <b><projet actuel></b>  
 - 🌱 J’explore : <b>TypeScript, Next.js, CI/CD</b>  
 - 💬 Discutons : <b>React, Node, Mongo, UI/UX</b>  
