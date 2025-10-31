@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/<ton-username>/<assets-repo-ou-profil>/main/banner.png" alt="banner" width="100%" />
+  <img src="https://pin.it/1znndqcHQ/<ton-username>/<assets-repo-ou-profil>/main/banner.png" alt="banner" width="100%" />
 </p>
 
 <h3 align="center">Full-Stack Web Developer</h3>
@@ -15,7 +15,7 @@
 ---
 
 ### 👋 Hello!
-Je suis <b>, développeur·se **Full-Stack** passionnée par les interfaces soignées et les APIs robustes.  
+Je suis <b>, développeuse **Full-Stack** passionnée par les interfaces soignées et les APIs robustes.  
 - 🔭 En ce moment : <b><projet actuel></b>  
 - 🌱 J’explore : <b>TypeScript, Next.js, CI/CD</b>  
 - 💬 Discutons : <b>React, Node, Mongo, UI/UX</b>  
