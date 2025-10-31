@@ -47,33 +47,34 @@ Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignée
 
 <div align="center">
 
-  <!-- Carte profil -->
-  <img width="90%"
+  <!-- 🟣 Carte profil (réduite) -->
+  <img width="80%"
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=tokyonight" />
 
-  <!-- Ligne Stats + Heures productives -->
-  <p align="center">
-    <img height="160"
+  <!-- 🔹 Ligne Stats + Heures productives -->
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
+    <img height="140"
          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nymphab&theme=tokyonight" />
-    <img height="160"
+    <img height="140"
          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nymphab&theme=tokyonight&utcOffset=+01" />
-  </p>
+  </div>
 
-  <!-- Ligne Langages -->
-  <p align="center">
-    <img height="160"
+  <!-- 🔹 Ligne Langages -->
+  <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px; margin-top: 10px;">
+    <img height="140"
          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nymphab&theme=tokyonight" />
-    <img height="160"
+    <img height="140"
          src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nymphab&theme=tokyonight" />
-  </p>
+  </div>
 
-  <!-- Trophées -->
-  <p align="center">
-    <img width="90%"
+  <!-- 🏆 Trophées (badges) -->
+  <div align="center" style="margin-top: 10px;">
+    <img width="80%"
          src="https://github-profile-trophy.vercel.app/?username=nymphab&theme=onedark&no-frame=true&margin-w=8&title=MultiLanguage,Repositories,Stars,Commits,Followers,PullRequest" />
-  </p>
+  </div>
 
 </div>
+
 
 
 
