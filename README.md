@@ -59,21 +59,8 @@ Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignée
          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nymphab&theme=tokyonight&utcOffset=+01" />
   </div>
 
-  <!-- 🔹 Ligne Langages -->
-  <div align="center" style="width: 80%; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-    <img width="49%"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nymphab&theme=tokyonight" />
-    <img width="49%"
-         src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nymphab&theme=tokyonight" />
-  </div>
-
-  <!-- 🏆 Trophées (badges alignés) -->
-  <div align="center" style="width: 80%; margin-top: 10px;">
-    <img width="100%"
-         src="https://github-profile-trophy.vercel.app/?username=nymphab&theme=onedark&no-frame=true&margin-w=8&title=MultiLanguage,Repositories,Stars,Commits,Followers,PullRequest" />
-  </div>
-
 </div>
+
 
 
 
