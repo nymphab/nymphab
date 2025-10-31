@@ -45,29 +45,34 @@ Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignée
 
 ### 📊 Stats
 
-<p align="center">
-  <!-- Stats principales -->
-  <img height="160" 
-       src="https://github-readme-stats.vercel.app/api?username=nymphab&show_icons=true&hide_border=true&border_radius=25&title_color=BB86FC&icon_color=BB86FC&text_color=C9D1D9&bg_color=000000,1A0033,0D1117&theme=tokyonight" />
-  
-  <!-- Streaks -->
-  <img height="160" 
-       src="https://github-readme-streak-stats.herokuapp.com?user=nymphab&hide_border=true&background=000000,1A0033,0D1117&fire=BB86FC&ring=9D5AFF&currStreakLabel=BB86FC&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&theme=tokyonight-duo" />
-</p>
 
-<p align="center">
-  <!-- Langages les plus utilisés -->
-  <img height="160" 
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymphab&layout=compact&hide_border=true&border_radius=25&title_color=BB86FC&text_color=C9D1D9&bg_color=000000,1A0033,0D1117&theme=tokyonight" />
-</p>
+<div align="center">
 
-<p align="center">
-  <!-- Carte résumé complète -->
-  <img width="95%" 
-       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=tokyonight" 
-       alt="Profile summary" 
-       style="border-radius:25px;" />
-</p>
+  <!-- Stats globales -->
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=nymphab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&title_color=BB86FC&icon_color=BB86FC&text_color=C9D1D9&bg_color=0D1117"
+    alt="GitHub stats"
+    width="100%" />
+
+  <!-- Streak -->
+  <img
+    src="https://github-readme-streak-stats.herokuapp.com?user=nymphab&theme=tokyonight-duo&hide_border=true&background=0D1117&fire=BB86FC&ring=9D5AFF&currStreakLabel=BB86FC&sideNums=C9D1D9"
+    alt="GitHub streak"
+    width="100%" />
+
+  <!-- Langages (peut afficher 'No languages data' s'il n'y a pas encore assez de code public) -->
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymphab&layout=compact&theme=tokyonight&hide_border=true&border_radius=25&title_color=BB86FC&text_color=C9D1D9&bg_color=0D1117&card_width=1000"
+    alt="Most used languages"
+    width="100%" />
+
+  <!-- Résumé profil -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=tokyonight"
+    alt="Profile summary"
+    width="100%" />
+
+</div>
 
 
 
