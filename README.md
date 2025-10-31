@@ -46,33 +46,41 @@ Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignée
 ### 📊 Stats
 
 
-<div align="center">
+## 📊 Stats
 
-  <!-- Stats globales -->
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=nymphab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&title_color=BB86FC&icon_color=BB86FC&text_color=C9D1D9&bg_color=0D1117"
-    alt="GitHub stats"
-    width="100%" />
+<!-- Aperçu global -->
+<p align="center">
+  <img width="100%"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=tokyonight" />
+</p>
 
-  <!-- Streak -->
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com?user=nymphab&theme=tokyonight-duo&hide_border=true&background=0D1117&fire=BB86FC&ring=9D5AFF&currStreakLabel=BB86FC&sideNums=C9D1D9"
-    alt="GitHub streak"
-    width="100%" />
+<!-- Rangées de cartes -->
+<p align="center">
+  <img height="180"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nymphab&theme=tokyonight" />
+  <img height="180"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nymphab&theme=tokyonight&utcOffset=+01" />
+</p>
 
-  <!-- Langages (peut afficher 'No languages data' s'il n'y a pas encore assez de code public) -->
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymphab&layout=compact&theme=tokyonight&hide_border=true&border_radius=25&title_color=BB86FC&text_color=C9D1D9&bg_color=0D1117&card_width=1000"
-    alt="Most used languages"
-    width="100%" />
+<p align="center">
+  <img height="180"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=nymphab&theme=tokyonight" />
+  <img height="180"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=nymphab&theme=tokyonight" />
+</p>
 
-  <!-- Résumé profil -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=tokyonight"
-    alt="Profile summary"
-    width="100%" />
+<!-- Trophées (badges) -->
+<p align="center">
+  <img width="100%"
+       src="https://github-profile-trophy.vercel.app/?username=nymphab&theme=onedark&no-frame=true&margin-w=8&title=MultiLanguage,Repositories,Stars,Commits,Followers,PullRequest" />
+</p>
 
-</div>
+<!-- Graphe des contributions -->
+<p align="center">
+  <img width="100%"
+       src="https://github-readme-activity-graph.vercel.app/graph?username=nymphab&theme=tokyo-night&radius=12" />
+</p>
+
 
 
 
