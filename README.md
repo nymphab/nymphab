@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://pin.it/1znndqcHQ/<ton-username>/<assets-repo-ou-profil>/main/banner.png" alt="banner" width="100%" />
+  <img src=""C:\Users\amel-\Downloads\thumbnail_edcdb968bd0b8a03fe81bf7f85ce21e2 (1).jpg"" alt="banner" width="100%" />
 </p>
 
 <h3 align="center">Full-Stack Web Developer</h3>
