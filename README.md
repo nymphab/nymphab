@@ -9,7 +9,7 @@
   <a href="https://www.linkedin.com/in/amel-bennaceur-532873265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://<ton-portfolio>"><img src="https://img.shields.io/badge/Portfolio-6B46C1?logo=vercel&logoColor=white"></a>
   <a href="mailto:<ton-email>"><img src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white"></a>
-  <img src="https://komarev.com/ghpvc/?username=<ton-username>&style=flat" />
+  
 </p>
 
 ---
