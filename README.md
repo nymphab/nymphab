@@ -16,7 +16,7 @@ style="border-radius: 20px; box-shadow: 0 5px 25px rgba(128,0,255,0.3);" />
 ---
 
 ### 👋 Hello!
-Je suis <b>, développeuse **Full-Stack** passionnée par les interfaces soignées et les APIs robustes.  
+Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignées et les APIs robustes.  
 - 🔭 En ce moment : <b><projet actuel></b>  
 - 🌱 J’explore : <b>TypeScript, Next.js, CI/CD</b>  
 - 💬 Discutons : <b>React, Node, Mongo, UI/UX</b>  
@@ -44,13 +44,20 @@ Je suis <b>, développeuse **Full-Stack** passionnée par les interfaces soigné
 
 
 ### 📊 Stats
-<p align="left">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nymphab&show_icons=true&theme=tokyonight&hide_title=true" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=nymphab&theme=tokyonight&hide_border=true" />
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nymphab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&title_color=BB86FC&icon_color=BB86FC&text_color=C9D1D9&bg_color=0D1117" />
+  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=nymphab&theme=tokyonight-duo&hide_border=true&background=0D1117&fire=BB86FC&ring=9D5AFF&currStreakLabel=BB86FC&sideNums=C9D1D9" />
 </p>
-<p>
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymphab&layout=compact&theme=tokyonight" />
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymphab&layout=compact&theme=tokyonight&hide_border=true&border_radius=25&title_color=BB86FC&text_color=C9D1D9&bg_color=0D1117" />
 </p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=tokyonight" alt="Profile summary" style="border-radius:25px;" />
+</p>
+
 
 
 ---
