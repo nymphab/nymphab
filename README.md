@@ -65,4 +65,4 @@ Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignée
 
 ### 📫 Me contacter
 - ✉️ <amel_bennaceur@outlook.com>  
-- 💼 LinkedIn : <https://www.linkedin.com/in/amel-bennaceur-532873265>/>
+- 💼 LinkedIn : <https://www.linkedin.com/in/amel-bennaceur-532873265>
