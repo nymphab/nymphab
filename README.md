@@ -49,11 +49,11 @@ Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignée
 <div align="center">
 
   <!-- Carte profil -->
-  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=github_dark" />
+  <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=tokyonight" />
 
   <!-- Stats + Commits -->
   <div align="center" style="width: 78%; display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
-    <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nymphab&theme=github_dark" />
+    <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nymphab&theme=tokyonight" />
     <img width="40%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nymphab&theme=github_dark&utcOffset=1" />
   </div>
 
