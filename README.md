@@ -45,6 +45,7 @@ Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignée
 
 ### 📊 Stats
 
+
 <div align="center">
 
   <!-- 🟣 Carte profil -->
@@ -52,14 +53,15 @@ Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignée
        src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=tokyonight" />
 
   <!-- 🔹 Ligne Stats + Heures productives -->
-  <div align="center" style="width: 80%; display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 10px;">
-    <img width="49%"
+  <div align="center" style="width: 78%; display: flex; justify-content: center; flex-wrap: wrap; gap: 8px; margin-top: 10px;">
+    <img width="48%"
          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=nymphab&theme=tokyonight" />
-    <img width="49%"
+    <img width="48%"
          src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nymphab&theme=tokyonight&utcOffset=+01" />
   </div>
 
 </div>
+
 
 
 
