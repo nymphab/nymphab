@@ -46,17 +46,29 @@ Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignée
 ### 📊 Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=nymphab&show_icons=true&theme=tokyonight&hide_border=true&border_radius=25&title_color=BB86FC&icon_color=BB86FC&text_color=C9D1D9&bg_color=0D1117" />
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com?user=nymphab&theme=tokyonight-duo&hide_border=true&background=0D1117&fire=BB86FC&ring=9D5AFF&currStreakLabel=BB86FC&sideNums=C9D1D9" />
+  <!-- Stats principales -->
+  <img height="160" 
+       src="https://github-readme-stats.vercel.app/api?username=nymphab&show_icons=true&hide_border=true&border_radius=25&title_color=BB86FC&icon_color=BB86FC&text_color=C9D1D9&bg_color=000000,1A0033,0D1117&theme=tokyonight" />
+  
+  <!-- Streaks -->
+  <img height="160" 
+       src="https://github-readme-streak-stats.herokuapp.com?user=nymphab&hide_border=true&background=000000,1A0033,0D1117&fire=BB86FC&ring=9D5AFF&currStreakLabel=BB86FC&sideNums=C9D1D9&sideLabels=C9D1D9&dates=C9D1D9&theme=tokyonight-duo" />
 </p>
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymphab&layout=compact&theme=tokyonight&hide_border=true&border_radius=25&title_color=BB86FC&text_color=C9D1D9&bg_color=0D1117" />
+  <!-- Langages les plus utilisés -->
+  <img height="160" 
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=nymphab&layout=compact&hide_border=true&border_radius=25&title_color=BB86FC&text_color=C9D1D9&bg_color=000000,1A0033,0D1117&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=tokyonight" alt="Profile summary" style="border-radius:25px;" />
+  <!-- Carte résumé complète -->
+  <img width="95%" 
+       src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=nymphab&theme=tokyonight" 
+       alt="Profile summary" 
+       style="border-radius:25px;" />
 </p>
+
 
 
 
