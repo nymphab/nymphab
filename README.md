@@ -1,6 +1,7 @@
 <!-- Banner -->
 <p align="center">
-  <img src=""C:\Users\amel-\Downloads\thumbnail_edcdb968bd0b8a03fe81bf7f85ce21e2 (1).jpg"" alt="banner" width="100%" />
+  <img src="https://raw.githubusercontent.com/nymphab/nymphab/refs/heads/main/thumbnail_edcdb968bd0b8a03fe81bf7f85ce21e2%20(1).jpg" alt="banner" width="100%"
+style="border-radius: 20px; box-shadow: 0 5px 25px rgba(128,0,255,0.3);" />
 </p>
 
 <h3 align="center">Full-Stack Web Developer</h3>
