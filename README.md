@@ -9,7 +9,7 @@ style="border-radius: 20px; box-shadow: 0 5px 25px rgba(128,0,255,0.3);" />
 <p align="center">
   <a href="https://www.linkedin.com/in/amel-bennaceur-532873265"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a>
   <a href="https://<ton-portfolio>"><img src="https://img.shields.io/badge/Portfolio-6B46C1?logo=vercel&logoColor=white"></a>
-  <a href="mailto:<ton-email>"><img src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white"></a>
+  <a href="mailto:<amel_bennaceur@outlook.com>"><img src="https://img.shields.io/badge/Email-333?logo=gmail&logoColor=white"></a>
   
 </p>
 
