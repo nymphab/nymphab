@@ -16,7 +16,7 @@ style="border-radius: 20px; box-shadow: 0 5px 25px rgba(128,0,255,0.3);" />
 ---
 
 ### 👋 Hello!
-Je suis <b> développeuse **Full-Stack** passionnée par les interfaces soignées et les APIs robustes.  
+As a junior web and mobile developer, I’m passionate about crafting elegant, user-focused experiences. Constantly learning and experimenting, I strive to turn every idea into a polished and meaningful project.
 - 🔭 En ce moment : <b><projet actuel></b>  
 - 🌱 J’explore : <b>TypeScript, Next.js, CI/CD</b>  
 - 💬 Discutons : <b>React, Node, Mongo, UI/UX</b>  
