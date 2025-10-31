@@ -62,6 +62,6 @@ As a junior web and mobile developer, I’m passionate about crafting elegant, u
 
 ---
 
-### 📫 Me contacter
+### 📫 Contact me
 - ✉️ <amel_bennaceur@outlook.com>  
 - 💼 LinkedIn : <https://www.linkedin.com/in/amel-bennaceur-532873265>
