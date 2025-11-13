@@ -43,7 +43,7 @@ As a junior web and mobile developer, I’m passionate about crafting elegant, u
 </p>
 
 
-### 📊 
+### 📊 Statistics
 
 
 <div align="center">
