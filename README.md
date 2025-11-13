@@ -15,7 +15,7 @@ style="border-radius: 20px; box-shadow: 0 5px 25px rgba(128,0,255,0.3);" />
 
 ---
 
-###  Hello !
+###  Hello ! 
 As a junior web and mobile developer, I’m passionate about crafting elegant, user-focused experiences. Constantly learning and experimenting, I strive to turn every idea into a polished and meaningful project.
 
 - 🚀 Currently exploring : <b>TypeScript, Next.js, CI/CD</b>  
