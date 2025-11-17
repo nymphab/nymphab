@@ -23,7 +23,7 @@ As a junior web and mobile developer, I’m passionate about crafting elegant, u
 
 ---
 
-### 🧰  Tech Stack
+### 🧰  Tech Stack.
 <p>
   <!-- Front -->
   <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white">
